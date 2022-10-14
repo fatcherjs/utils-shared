@@ -1,6 +1,6 @@
 {
     "name": "@fatcherjs/utils-shared",
-    "version": "1.8.0",
+    "version": "2.0.0",
     "main": "dist/utils-shared.js",
     "module": "dist/utils-shared.esm.js",
     "typings": "dist/utils-shared.d.ts",
