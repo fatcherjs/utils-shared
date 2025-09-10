@@ -14,6 +14,6 @@ A shared lib for helpers functions.
 >$ pnpm add @fatcherjs/utils-shared
 ```
 
-## LICENSE
+## License
 
-[MIT](./LICENSE)
+[MIT](https://github.com/fatcherjs/utils-shared/blob/master/LICENSE)
